@@ -24,7 +24,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Links
 
 -   [Solution URL](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3columnpreviewcard-dF-cY2SBNr)
--   [Live Site URL](https://ymhaah.github.io/3-column-preview-card/)
+-   [Live Site URL](https://ymhaah.github.io/TRAIN-FEM_3-column-preview-card/)
 
 ## My process
 
