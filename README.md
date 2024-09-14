@@ -1,4 +1,6 @@
 # Frontend Mentor - 3-column preview card component solution
+> Start at: Jun 20, 2022
+
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). FrontendMentor is a platform where developers can improve their front-end skills by building real projects and receiving feedback from the community.
 
